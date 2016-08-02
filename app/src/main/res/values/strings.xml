@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UsingRealm</string>
+    <string name="book_image">book image</string>
+    <string name="book_title">book_title</string>
+    <string name="author">author</string>
+    <string name="book_desc">description</string>
+</resources>
